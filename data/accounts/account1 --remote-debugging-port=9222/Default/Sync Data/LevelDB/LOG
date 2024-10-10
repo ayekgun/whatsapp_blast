@@ -1,0 +1,2 @@
+2024/10/10-10:40:27.669 133f5 Creating DB /home/gunawan/Project/Code/whatsapp_blast/data/accounts/account1 --remote-debugging-port=9222/Default/Sync Data/LevelDB since it was missing.
+2024/10/10-10:40:27.680 133f5 Reusing MANIFEST /home/gunawan/Project/Code/whatsapp_blast/data/accounts/account1 --remote-debugging-port=9222/Default/Sync Data/LevelDB/MANIFEST-000001
