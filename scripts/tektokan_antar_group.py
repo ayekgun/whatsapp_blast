@@ -93,19 +93,6 @@ def akses_data():
         print("Semua objek telah diakses.")
         sys.exit()  # Menghentikan aplikasi
 
-# Kirim pesan bergantian antara akun 1 dan akun 2
-# for i in range(len(messages)):
-#     for contact in contacts:    
-#         # Akun 1 mengirim pesan
-#         search_contact(driver1, contact)
-#         send_message(driver1, messages[i])
-#         time.sleep(2)
-
-#         # Akun 2 mengirim pesan (respon)
-#         search_contact(driver2, contact)
-#         send_message(driver2, messages[i])
-#         time.sleep(2)
-
 for contact in contacts:
     while antrian:  # Selama masih ada pesan di antrian
         # Akun 1 mengirim pesan

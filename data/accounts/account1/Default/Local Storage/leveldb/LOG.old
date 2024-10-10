@@ -1,3 +1,9 @@
-2024/10/10-10:30:34.610 4 Reusing MANIFEST /home/gunawan/Project/Code/whatsapp_blast/data/accounts/account1/Default/Local Storage/leveldb/MANIFEST-000001
-2024/10/10-10:30:34.621 4 Recovering log #3
-2024/10/10-10:30:34.621 4 Reusing old log /home/gunawan/Project/Code/whatsapp_blast/data/accounts/account1/Default/Local Storage/leveldb/000003.log 
+2024/10/10-10:37:44.405 4 Reusing MANIFEST /home/gunawan/Project/Code/whatsapp_blast/data/accounts/account1/Default/Local Storage/leveldb/MANIFEST-000001
+2024/10/10-10:37:44.416 4 Recovering log #3
+2024/10/10-10:37:44.418 4 Reusing old log /home/gunawan/Project/Code/whatsapp_blast/data/accounts/account1/Default/Local Storage/leveldb/000003.log 
+2024/10/10-11:01:38.553 4 Level-0 table #5: started
+2024/10/10-11:01:38.559 4 Level-0 table #5: 17711 bytes OK
+2024/10/10-11:01:38.564 4 Delete type=0 #3
+2024/10/10-11:19:23.672 5 Level-0 table #7: started
+2024/10/10-11:19:23.680 5 Level-0 table #7: 15182 bytes OK
+2024/10/10-11:19:23.687 5 Delete type=0 #4

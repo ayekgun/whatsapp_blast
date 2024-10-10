@@ -1,3 +1,3 @@
-2024/10/10-10:37:44.377 12afe Reusing MANIFEST /home/gunawan/Project/Code/whatsapp_blast/data/accounts/account1/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/10/10-10:37:44.380 12afe Recovering log #3
-2024/10/10-10:37:44.380 12afe Reusing old log /home/gunawan/Project/Code/whatsapp_blast/data/accounts/account1/Default/Sync Data/LevelDB/000003.log 
+2024/10/10-17:18:27.153 15a1 Reusing MANIFEST /home/gunawan/Project/Code/whatsapp_blast/data/accounts/account1/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/10/10-17:18:27.189 15a1 Recovering log #3
+2024/10/10-17:18:27.190 15a1 Reusing old log /home/gunawan/Project/Code/whatsapp_blast/data/accounts/account1/Default/Sync Data/LevelDB/000003.log 
